@@ -393,7 +393,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/loic-sharma/profiler",
-                "reference": "26e8e7fe67108d525194ba571b754d7dad772318"
+                "reference": "956e1e1fdb788ebdfcd9d9765ea56d39043c6a7c"
             },
             "require": {
                 "php": ">=5.3.0",
