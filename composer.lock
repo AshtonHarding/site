@@ -142,13 +142,13 @@
             "version": "dev-radio",
             "source": {
                 "type": "git",
-                "url": "https://github.com/hiro/laravel-hashing.git",
-                "reference": "fdad8213bc5fa29ad95e072ba9af236cd7e09427"
+                "url": "https://github.com/robclancy/laravel4-hashing.git",
+                "reference": "f08e6207ddcd28c852af30cfc6b4af5a581bb974"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hiro/laravel-hashing/zipball/fdad8213bc5fa29ad95e072ba9af236cd7e09427",
-                "reference": "fdad8213bc5fa29ad95e072ba9af236cd7e09427",
+                "url": "https://api.github.com/repos/robclancy/laravel4-hashing/zipball/f08e6207ddcd28c852af30cfc6b4af5a581bb974",
+                "reference": "f08e6207ddcd28c852af30cfc6b4af5a581bb974",
                 "shasum": ""
             },
             "require": {
