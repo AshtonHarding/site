@@ -1,0 +1,6 @@
+deps (might need to add more later):
+
+php7.0 php7.0-cli php7.0-mcrypt php7.0-mbstring
+curl -sS https://getcomposer.org/installer -o composer-setup.php
+sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+
